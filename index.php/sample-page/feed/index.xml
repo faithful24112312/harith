@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho mywordpress	</title>
-	<atom:link href="http://localhost/myproject/wordpress/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	Các phản hồi luận về: Sample Page	</title>
+	<atom:link href="http://localhost/myproject/wordpress/index.php/sample-page/feed/" rel="self" type="application/rss+xml" />
 	<link>https://faithful24112312.github.io/harith</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 12 Jun 2021 08:57:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Jun 2021 10:04:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

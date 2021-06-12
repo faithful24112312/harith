@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>
-	Bình luận cho mywordpress	</title>
-	<atom:link href="http://localhost/myproject/wordpress/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	Các phản hồi luận về: Trang Chủ	</title>
+	<atom:link href="http://localhost/myproject/wordpress/index.php/trang-chu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://faithful24112312.github.io/harith</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 12 Jun 2021 08:57:56 +0000</lastBuildDate>
