@@ -2,7 +2,7 @@
 <html lang="vi">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Đăng nhập &lsaquo; mywordpress &#8212; WordPress</title>
+	<title>Đăng nhập &lsaquo; Thuỷ Sinh Harith &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://faithful24112312.github.io/harith/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://faithful24112312.github.io/harith/">&larr; Quay lại mywordpress</a>		</p>
+			<a href="https://faithful24112312.github.io/harith/">&larr; Quay lại Thuỷ Sinh Harith</a>		</p>
 			</div>
 	<script src="https://faithful24112312.github.io/harith/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
 <script src="https://faithful24112312.github.io/harith/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -85,7 +85,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://faithful24112312.github.io/harith/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"74e2c0bb34"};
+var userProfileL10n = {"user_id":"0","nonce":"031665af30"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {

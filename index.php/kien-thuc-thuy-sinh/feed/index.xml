@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Trang Chủ	</title>
-	<atom:link href="http://localhost/myproject/wordpress/index.php/trang-chu/feed/" rel="self" type="application/rss+xml" />
+	Các phản hồi luận về: Kiến Thức Thuỷ Sinh	</title>
+	<atom:link href="http://localhost/myproject/wordpress/index.php/kien-thuc-thuy-sinh/feed/" rel="self" type="application/rss+xml" />
 	<link>https://faithful24112312.github.io/harith</link>
 	<description>Là Lựa Chọn Tốt Nhất</description>
-	<lastBuildDate>Sat, 12 Jun 2021 17:27:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Jun 2021 02:07:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
