@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho Thuỷ Sinh Harith	</title>
+	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://faithful24112312.github.io/harith</link>
+	<description>Là Lựa Chọn Tốt Nhất</description>
+	<lastBuildDate>Tue, 15 Jun 2021 10:10:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Phản hồi cho Trang Chủ bởi dangtri		</title>
+		<link>https://faithful24112312.github.io/harith/trang-chu/#comment-2</link>
+
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2021 02:40:54 +0000</pubDate>
+		<guid isPermaLink="false">https://faithful24112312.github.io/harith/?page_id=10#comment-2</guid>
+
+					<description><![CDATA[good]]></description>
+			<content:encoded><![CDATA[<p>good</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

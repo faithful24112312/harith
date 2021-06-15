@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cây thuỷ sinh &#8211; Thuỷ Sinh Harith</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/cay-thuy-sinh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://faithful24112312.github.io/harith</link>
+	<description>Là Lựa Chọn Tốt Nhất</description>
+	<lastBuildDate>Sat, 12 Jun 2021 14:44:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Cây Ráy</title>
+		<link>https://faithful24112312.github.io/harith/sản%20phẩm/cay-ray/</link>
+					<comments>https://faithful24112312.github.io/harith/sản%20phẩm/cay-ray/#respond</comments>
+		
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 12:36:47 +0000</pubDate>
+				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=87</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-82" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/06/cr.jpg" alt="" width="225" height="225" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://faithful24112312.github.io/harith/sản%20phẩm/cay-ray/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lan Nước</title>
+		<link>https://faithful24112312.github.io/harith/sản%20phẩm/lan-nuoc/</link>
+					<comments>https://faithful24112312.github.io/harith/sản%20phẩm/lan-nuoc/#respond</comments>
+		
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 12:35:36 +0000</pubDate>
+				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=86</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-83" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/06/ln.jpg" alt="" width="225" height="225" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://faithful24112312.github.io/harith/sản%20phẩm/lan-nuoc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Thuỷ Cúc</title>
+		<link>https://faithful24112312.github.io/harith/sản%20phẩm/thuy-cuc/</link>
+					<comments>https://faithful24112312.github.io/harith/sản%20phẩm/thuy-cuc/#respond</comments>
+		
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 11:36:05 +0000</pubDate>
+				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=79</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-85" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/06/tc.jpg" alt="" width="225" height="225" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://faithful24112312.github.io/harith/sản%20phẩm/thuy-cuc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tiểu Bảo Tháp</title>
+		<link>https://faithful24112312.github.io/harith/sản%20phẩm/tieu-bao-thap/</link>
+					<comments>https://faithful24112312.github.io/harith/sản%20phẩm/tieu-bao-thap/#respond</comments>
+		
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 11:27:10 +0000</pubDate>
+				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=77</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-84" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/06/tbt.jpg" alt="" width="225" height="225" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://faithful24112312.github.io/harith/sản%20phẩm/tieu-bao-thap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

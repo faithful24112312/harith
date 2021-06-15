@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>thức ăn &#8211; Thuỷ Sinh Harith</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/thuc-an/feed/" rel="self" type="application/rss+xml" />
+	<link>https://faithful24112312.github.io/harith</link>
+	<description>Là Lựa Chọn Tốt Nhất</description>
+	<lastBuildDate>Sat, 12 Jun 2021 16:49:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Cám Inve</title>
+		<link>https://faithful24112312.github.io/harith/sản%20phẩm/cam-inve/</link>
+					<comments>https://faithful24112312.github.io/harith/sản%20phẩm/cam-inve/#respond</comments>
+		
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 16:49:45 +0000</pubDate>
+				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=159</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-152" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/06/Cam-Inve.jpg" alt="" width="225" height="225" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://faithful24112312.github.io/harith/sản%20phẩm/cam-inve/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Artemia(400g)</title>
+		<link>https://faithful24112312.github.io/harith/sản%20phẩm/artemia400g/</link>
+					<comments>https://faithful24112312.github.io/harith/sản%20phẩm/artemia400g/#respond</comments>
+		
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 16:45:27 +0000</pubDate>
+				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=157</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-151" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/06/Artemia400g.jpg" alt="" width="225" height="225" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://faithful24112312.github.io/harith/sản%20phẩm/artemia400g/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cám Luxury</title>
+		<link>https://faithful24112312.github.io/harith/sản%20phẩm/cam-luxury/</link>
+					<comments>https://faithful24112312.github.io/harith/sản%20phẩm/cam-luxury/#respond</comments>
+		
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 16:43:52 +0000</pubDate>
+				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=156</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-153" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/06/Cam-Luxury.jpg" alt="" width="225" height="225" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://faithful24112312.github.io/harith/sản%20phẩm/cam-luxury/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cám tép V-mix</title>
+		<link>https://faithful24112312.github.io/harith/sản%20phẩm/cam-tep-v-mix/</link>
+					<comments>https://faithful24112312.github.io/harith/sản%20phẩm/cam-tep-v-mix/#respond</comments>
+		
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 16:42:17 +0000</pubDate>
+				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=155</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-154" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/06/Cam-tep-V-mix.jpg" alt="" width="225" height="225" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://faithful24112312.github.io/harith/sản%20phẩm/cam-tep-v-mix/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://faithful24112312.github.io/harith/index.php/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
+								<a href="https://faithful24112312.github.io/harith/tai-khoan/lost-password/">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -85,7 +85,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://faithful24112312.github.io/harith/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"031665af30"};
+var userProfileL10n = {"user_id":"0","nonce":"e3c1565c18"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
