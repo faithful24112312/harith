@@ -660,17 +660,15 @@ img.emoji {
 				</label>
 				<input type="submit" class="search-submit" value="Tìm kiếm">
 			</form></div>
-<div id="woocommerce_product_categories-3" class="widget woocommerce widget_product_categories">
-<span class="gamma widget-title">Danh mục sản phẩm</span><select name="product_cat" id="product_cat" class="dropdown_product_cat">
-	<option value="" selected>Chọn danh mục</option>
-	<option class="level-0" value="ca-tep-oc">ca tep oc&nbsp;&nbsp;(16)</option>
-	<option class="level-0" value="cay-thuy-sinh">cây thuỷ sinh&nbsp;&nbsp;(4)</option>
-	<option class="level-0" value="phu-kien-be">phụ kiện bể&nbsp;&nbsp;(4)</option>
-	<option class="level-0" value="phu-kien-loc">phụ kiện lọc&nbsp;&nbsp;(4)</option>
-	<option class="level-0" value="thuc-an">thức ăn&nbsp;&nbsp;(4)</option>
-	<option class="level-0" value="thuoc">thuốc&nbsp;&nbsp;(4)</option>
-</select>
-</div>
+		<div id="recent-posts-2" class="widget widget_recent_entries">
+		<span class="gamma widget-title">Bài viết mới</span>
+		<ul>
+											<li>
+					<a href="https://faithful24112312.github.io/harith/uncategorized/cach-dieu-chinh-do-ph-cho-ho-thuy-sinh-hieu-qua-va-an-toan/">Cách điều chỉnh độ pH cho hồ thuỷ sinh hiệu quả và an toàn.</a>
+									</li>
+					</ul>
+
+		</div>
 </div>
 <!-- #secondary -->
 
@@ -744,7 +742,7 @@ var wc_address_i18n_params = {"locale":"{\"VN\":{\"state\":{\"required\":false,\
 </script>
 <script src="https://faithful24112312.github.io/harith/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=5.3.0" id="wc-address-i18n-js"></script>
 <script id="wc-cart-js-extra">
-var wc_cart_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/myproject\/wordpress\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"4836a6c67f","apply_coupon_nonce":"edb8f59c59","remove_coupon_nonce":"09cfe2af45"};
+var wc_cart_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/myproject\/wordpress\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"cf15806852","apply_coupon_nonce":"685245d314","remove_coupon_nonce":"b4378f7853"};
 </script>
 <script src="https://faithful24112312.github.io/harith/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=5.3.0" id="wc-cart-js"></script>
 <script src="https://faithful24112312.github.io/harith/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6" id="selectWoo-js"></script>
@@ -757,44 +755,6 @@ var wc_cart_fragments_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/ad
 <script src="https://faithful24112312.github.io/harith/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js?ver=3.7.0" id="storefront-header-cart-js"></script>
 <script src="https://faithful24112312.github.io/harith/wp-content/themes/storefront/assets/js/footer.min.js?ver=3.7.0" id="storefront-handheld-footer-bar-js"></script>
 <script src="https://faithful24112312.github.io/harith/wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
-<!-- WooCommerce JavaScript -->
-<script type="text/javascript">
-jQuery(function($) { 
-
-				jQuery( '.dropdown_product_cat' ).change( function() {
-					if ( jQuery(this).val() != '' ) {
-						var this_page = '';
-						var home_url  = 'https://faithful24112312.github.io/harith/';
-						if ( home_url.indexOf( '?' ) > 0 ) {
-							this_page = home_url + '&product_cat=' + jQuery(this).val();
-						} else {
-							this_page = home_url + '?product_cat=' + jQuery(this).val();
-						}
-						location.href = this_page;
-					} else {
-						location.href = 'https://faithful24112312.github.io/harith/cua-hang/';
-					}
-				});
-
-				if ( jQuery().selectWoo ) {
-					var wc_product_cat_select = function() {
-						jQuery( '.dropdown_product_cat' ).selectWoo( {
-							placeholder: 'Chọn danh mục',
-							minimumResultsForSearch: 5,
-							width: '100%',
-							allowClear: true,
-							language: {
-								noResults: function() {
-									return 'Không tìm thấy kết quả phù hợp';
-								}
-							}
-						} );
-					};
-					wc_product_cat_select();
-				}
-			
- });
-</script>
 
 </body>
 </html>
