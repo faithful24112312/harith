@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://faithful24112312.github.io/harith</link>
 	<description>Là Lựa Chọn Tốt Nhất</description>
-	<lastBuildDate>Sun, 04 Jul 2021 01:21:39 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 23:55:49 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,15 +32,20 @@
 					<description><![CDATA[1 bể cá thuỷ sinh mini có tác dụng gì? giá như thế nào?]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-cover has-parallax" style="background-image:url(https://faithful24112312.github.io/harith/wp-content/uploads/2021/07/visinh.jpg);min-height:300px"><div class="wp-block-cover__inner-container">
-<p class="has-text-align-center has-white-color has-text-color has-large-font-size"><p class="has-text-align-center has-large-font-size">Welcome to the store</p></p>
+<p>Welcome to the store</p>
+<p>
 
 
 
-<p class="has-text-align-center has-white-color has-text-color"><p class="has-text-color has-text-align-center">Write a short welcome message here</p></p>
+</p>
+<p>Write a short welcome message here</p>
+<p>
 
 
 
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://faithful24112312.github.io/harith/index.php/cua-hang/">Go shopping</a></div>
+</p>
+<a href="https://faithful24112312.github.io/harith/index.php/cua-hang/">Go shopping</a>
+<p>
 </div></div>
 
 
@@ -55,7 +60,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/07/ho-thuy-sinh-mini-la-gi.jpeg" alt="be-ca-thuy-sinh-mini-co-tac-dung-gi" class="wp-image-293" width="780" height="523"/></figure></div>
+<figure><img loading="lazy" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/07/ho-thuy-sinh-mini-la-gi.jpeg" alt="be-ca-thuy-sinh-mini-co-tac-dung-gi" width="780" height="523" /></figure>
 
 
 <h2>2/<strong>Thú vui lành mạnh</strong></h2>
@@ -77,7 +82,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/07/be-ca-thuy-sinh-mini.jpg" alt="be-ca-thuy-sinh-mini" class="wp-image-294" width="788" height="525"/></figure></div>
+<figure><img loading="lazy" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/07/be-ca-thuy-sinh-mini.jpg" alt="be-ca-thuy-sinh-mini" width="788" height="525" /></figure>
 
 
 <h2>5/<strong>Bể thủy sinh mini giá như thế nào?</strong></h2>
@@ -91,15 +96,15 @@
 
 
 
-<p>Trên đây chúng tôi đã chia sẻ đến bạn đọc tác dụng cũng như giá của&nbsp;<strong>bể thủy sinh</strong>. Bạn hãy sắm ngay cho mình một <strong>bể cá thủy sinh mini để bàn</strong> để cho không gian được gần gũi và thân thiện với thiên nhiên hơn nhé!  <a href="https://faithful24112312.github.io/harith/" target="_blank" rel="noopener">https://faithful24112312.github.io/harith/</a></p>
-
-
-
-<p><a href="google-site-verification: google8f33f37fb74a2469.html">google-site-verification: google8f33f37fb74a2469.html</a></p>
+<p>Trên đây chúng tôi đã chia sẻ đến bạn đọc tác dụng cũng như giá của&nbsp;<strong>bể thủy sinh</strong>. Bạn hãy sắm ngay cho mình một <strong>bể cá thủy sinh mini để bàn</strong> để cho không gian được gần gũi và thân thiện với thiên nhiên hơn nhé! <a href="https://faithful24112312.github.io/harith/" target="_blank" rel="noopener">https://faithful24112312.github.io/harith/</a></p>
 
 
 
 <p></p>
+
+
+
+<p>&nbsp;</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://faithful24112312.github.io/harith/uncategorized/be-ca-thuy-sinh-mini/feed/</wfw:commentRss>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://faithful24112312.github.io/harith</link>
 	<description>Là Lựa Chọn Tốt Nhất</description>
-	<lastBuildDate>Sun, 04 Jul 2021 01:15:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 21:56:07 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,23 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>gốm sinh sản cho tép viên</title>
+		<link>https://faithful24112312.github.io/harith/harith/gom-sinh-san-cho-tep-vien/</link>
+					<comments>https://faithful24112312.github.io/harith/harith/gom-sinh-san-cho-tep-vien/#respond</comments>
+		
+		<dc:creator><![CDATA[dangtri]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2021 21:55:51 +0000</pubDate>
+				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=400</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://faithful24112312.github.io/harith/harith/gom-sinh-san-cho-tep-vien/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>ưu đãi các mặt hàng</title>
 		<link>https://faithful24112312.github.io/harith/harith/uu-dai-cac-mat-hang/</link>
 					<comments>https://faithful24112312.github.io/harith/harith/uu-dai-cac-mat-hang/#respond</comments>
@@ -186,24 +203,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://faithful24112312.github.io/harith/harith/artemia400g/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Cám Luxury</title>
-		<link>https://faithful24112312.github.io/harith/harith/cam-luxury/</link>
-					<comments>https://faithful24112312.github.io/harith/harith/cam-luxury/#respond</comments>
-		
-		<dc:creator><![CDATA[dangtri]]></dc:creator>
-		<pubDate>Sat, 12 Jun 2021 16:43:52 +0000</pubDate>
-				<guid isPermaLink="false">https://faithful24112312.github.io/harith/?post_type=product&#038;p=156</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-153" src="https://faithful24112312.github.io/harith/wp-content/uploads/2021/06/Cam-Luxury.jpg" alt="" width="225" height="225" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://faithful24112312.github.io/harith/harith/cam-luxury/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
